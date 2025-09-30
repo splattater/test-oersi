@@ -1,0 +1,60 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "67d2e006182d3d0006de3607",
+  "_courseId": "67d2e006182d3d0006de3606",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false
+  },
+  "__v": 0,
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_shouldStoreResponses": true,
+      "_shouldStoreAttempts": false,
+      "_shouldRecordInteractions": true,
+      "_shouldCompress": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_commitOnAnyChange": false,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true,
+      "_manifestIdentifier": "adapt_manifest",
+      "_exitStateIfIncomplete": "auto",
+      "_exitStateIfComplete": "auto"
+    }
+  },
+  "screenSize": {
+    "small": 0,
+    "medium": 720,
+    "large": 960,
+    "xlarge": 1280
+  }
+}
