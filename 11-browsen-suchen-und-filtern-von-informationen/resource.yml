@@ -1,0 +1,69 @@
+'@context': https://schema.org/
+creativeWorkStatus: Draft
+type: LearningResource
+name: 1.1. Browsen, Suchen und Filtern von Informationen
+description: >-
+  In diesem Kurs lernen Sie die grundlegenden Prinzipien der digitalen Welt
+  kennen, darunter die Struktur des Internets, Datenschutz, Browser-Funktionen
+  und Suchmaschinenstrategien. Sie erfahren auch, wie man Daten sicher und
+  effizient strukturiert, speichert und verarbeitet, und werden in die
+  Wichtigkeit von Anonymität und Datenschutz im Netz eingeführt.
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: >-
+  https://splattater.github.io/test-oersi/11-browsen-suchen-und-filtern-von-informationen/
+creator:
+  - givenName: Mihail
+    familyName: Miller
+    id: https://orcid.org/0000-0001-8119-8693
+    type: Person
+    affiliation:
+      name: Institut für Angewandte Informatik
+      type: Organization
+  - givenName: Jan
+    familyName: Schubert
+    type: Person
+    affiliation:
+      name: WeTeK Berlin gGmbH
+      type: Organization
+  - givenName: Bettina
+    familyName: Schasse de Araujo
+    type: Person
+    affiliation:
+      name: WeTeK Berlin gGmbH 
+      type: Organization
+  - givenName: Jan
+    familyName: Schiller
+    id: https://orcid.org/0000-0002-7632-7179
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+  - givenName: Leonore
+    familyName: Negt
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+  - givenName: Sabine
+    familyName: Schmidt-Lauff
+    id: https://orcid.org/0000-0002-5657-7488
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+keywords:
+  - Digitale Kompetenzen
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/assessment
+  - https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+

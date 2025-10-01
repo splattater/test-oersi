@@ -1,0 +1,69 @@
+'@context': https://schema.org/
+creativeWorkStatus: Draft
+type: LearningResource
+name: 1.2. Bewerten von Digitalen Inhalten
+description: >-
+  In diesem Kurs lernen Sie, wie Sie mit digitalen Quellen sicher umgehen und
+  zwischen seriösen und unseriösen Quellen unterscheiden. Sie erweitern Ihre
+  Fähigkeiten im Umgang mit sozialen Medien und erfahren, wie Sie Fake News und
+  Vorurteile in der KI erkennen können. Ein wichtiger Aspekt ist die
+  Medienkompetenz, insbesondere im Umgang mit Informationen im Internet.
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: >-
+  https://splattater.github.io/test-oersi/12-bewerten-von-digitalen-inhalten/
+creator:
+  - givenName: Mihail
+    familyName: Miller
+    id: https://orcid.org/0000-0001-8119-8693
+    type: Person
+    affiliation:
+      name: Institut für Angewandte Informatik
+      type: Organization
+  - givenName: Jan
+    familyName: Schubert
+    type: Person
+    affiliation:
+      name: WeTeK Berlin gGmbH
+      type: Organization
+  - givenName: Bettina
+    familyName: Schasse de Araujo
+    type: Person
+    affiliation:
+      name: WeTeK Berlin gGmbH 
+      type: Organization
+  - givenName: Jan
+    familyName: Schiller
+    id: https://orcid.org/0000-0002-7632-7179
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+  - givenName: Leonore
+    familyName: Negt
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+  - givenName: Sabine
+    familyName: Schmidt-Lauff
+    id: https://orcid.org/0000-0002-5657-7488
+    type: Person
+    affiliation:
+      name: Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+      id: https://ror.org/04e8jbs38
+      type: Organization
+keywords:
+  - Digitale Kompetenzen
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/assessment
+  - https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+
