@@ -73,11 +73,9 @@
       "altFeedbackTitle": "Feedback"
     },
     "_extensions": {
-      "_trickle": {
-        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
-      },
-      "_tutor": {
-        "hideFeedback": "Feedback ausblenden"
+      "_bookmarking": {
+        "resumeButtonText": "Resume",
+        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
       },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
@@ -97,9 +95,11 @@
         "ariaRegion": "",
         "resources": "Additional resources."
       },
-      "_bookmarking": {
-        "resumeButtonText": "Resume",
-        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_tutor": {
+        "hideFeedback": "Feedback ausblenden"
       },
       "_toc": {
         "navigationToc": "Open table of contents",
@@ -358,28 +358,35 @@
     "_showLabelAtWidth": "medium",
     "_labelPosition": "auto"
   },
+  "_spoor": {
+    "_messages": ""
+  },
   "_assessment": {
-    "_isPercentageBased": true,
+    "_isPercentageBased": false,
     "_scoreToPass": 60,
     "_correctToPass": 60
   },
-  "_tutor": {
-    "_type": "notify",
-    "_classes": "",
-    "_hasNotifyBottomButton": false,
-    "_button": {
-      "text": "{{_globals._extensions._tutor.hideFeedback}}",
-      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "_location": "previous",
+    "_showPrompt": true,
+    "_autoRestore": true,
+    "title": "Lesezeichen",
+    "body": "Möchten Sie dort weitermachen, wo Sie aufgehört haben?",
+    "_buttons": {
+      "yes": "Ja",
+      "no": "Nein"
     }
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "title": "",
     "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
+    "_isCompletionIndicatorEnabled": true,
     "_isShownInNavigationBar": true,
-    "_showAtCourseLevel": false,
-    "_useCourseProgressInNavigationButton": false
+    "_showAtCourseLevel": true,
+    "_useCourseProgressInNavigationButton": true
   },
   "_resources": {
     "_isEnabled": true,
@@ -424,20 +431,13 @@
     },
     "_resourcesItems": []
   },
-  "_spoor": {
-    "_messages": ""
-  },
-  "_bookmarking": {
-    "_isEnabled": true,
-    "_level": "page",
-    "_location": "previous",
-    "_showPrompt": true,
-    "_autoRestore": true,
-    "title": "Lesezeichen",
-    "body": "Möchten Sie dort weitermachen, wo Sie aufgehört haben?",
-    "_buttons": {
-      "yes": "Ja",
-      "no": "Nein"
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
     }
   },
   "_toc": {

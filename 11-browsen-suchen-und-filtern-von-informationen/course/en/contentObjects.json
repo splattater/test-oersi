@@ -18,7 +18,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a101",
+    "_id": "67d2dfb8182d3d0006de34ad",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -101,8 +101,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a104",
-    "_parentId": "681decd07f4587000752a101",
+    "_id": "67d2dfb8182d3d0006de34b0",
+    "_parentId": "67d2dfb8182d3d0006de34ad",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -184,8 +184,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a106",
-    "_parentId": "681decd07f4587000752a102",
+    "_id": "67d2dfb8182d3d0006de34b2",
+    "_parentId": "67d2dfb8182d3d0006de34ae",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -267,8 +267,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a108",
-    "_parentId": "681decd07f4587000752a103",
+    "_id": "67d2dfb8182d3d0006de34b4",
+    "_parentId": "67d2dfb8182d3d0006de34af",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -350,7 +350,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a102",
+    "_id": "67d2dfb8182d3d0006de34ae",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -433,8 +433,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a10a",
-    "_parentId": "681decd07f4587000752a102",
+    "_id": "67d2dfb8182d3d0006de34b6",
+    "_parentId": "67d2dfb8182d3d0006de34ae",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -516,8 +516,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a10c",
-    "_parentId": "681decd07f4587000752a101",
+    "_id": "67d2dfb8182d3d0006de34b8",
+    "_parentId": "67d2dfb8182d3d0006de34ad",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -599,8 +599,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a10e",
-    "_parentId": "681decd07f4587000752a103",
+    "_id": "67d2dfb8182d3d0006de34ba",
+    "_parentId": "67d2dfb8182d3d0006de34af",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -664,8 +664,8 @@
     }
   },
   {
-    "title": "D - Bewerten",
-    "displayTitle": "D - Bewerten",
+    "title": "C - Bewerten",
+    "displayTitle": "C - Bewerten",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -682,7 +682,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a103",
+    "_id": "67d2dfb8182d3d0006de34af",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -694,6 +694,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
@@ -704,16 +708,11 @@
       "_isEnabled": true,
       "_resourcesItems": []
     },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
     "_vanilla": {
       "_backgroundImage": {
-        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -724,19 +723,12 @@
         "_backgroundPosition": null
       },
       "_responsiveClasses": {
-        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
       },
       "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
         "_backgroundImage": {
-          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -747,7 +739,6 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
-          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -774,8 +765,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a110",
-    "_parentId": "681decd07f4587000752a101",
+    "_id": "67d2dfb8182d3d0006de34bc",
+    "_parentId": "67d2dfb8182d3d0006de34ad",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -857,7 +848,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "681decd07f4587000752a112",
+    "_id": "67d2dfb8182d3d0006de34be",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
