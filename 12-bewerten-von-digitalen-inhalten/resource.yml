@@ -2,15 +2,10 @@
 creativeWorkStatus: Draft
 type: LearningResource
 name: 1.2. Bewerten von Digitalen Inhalten
-description: >-
-  In diesem Kurs lernen Sie, wie Sie mit digitalen Quellen sicher umgehen und
-  zwischen seriösen und unseriösen Quellen unterscheiden. Sie erweitern Ihre
-  Fähigkeiten im Umgang mit sozialen Medien und erfahren, wie Sie Fake News und
-  Vorurteile in der KI erkennen können. Ein wichtiger Aspekt ist die
-  Medienkompetenz, insbesondere im Umgang mit Informationen im Internet.
+description: |
+  In diesem Kurs lernen Sie, wie Sie mit digitalen Quellen sicher umgehen und zwischen seriösen und unseriösen Quellen unterscheiden. Sie erweitern Ihre Fähigkeiten im Umgang mit sozialen Medien und erfahren, wie Sie Fake News und Vorurteile in der KI erkennen können. Ein wichtiger Aspekt ist die Medienkompetenz, insbesondere im Umgang mit Informationen im Internet.
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
-id: >-
-  https://splattater.github.io/test-oersi/12-bewerten-von-digitalen-inhalten/
+id: https://splattater.github.io/test-oersi/12-bewerten-von-digitalen-inhalten/
 creator:
   - givenName: Mihail
     familyName: Miller
@@ -66,4 +61,3 @@ learningResourceType:
   - https://w3id.org/kim/hcrt/slide
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
-
