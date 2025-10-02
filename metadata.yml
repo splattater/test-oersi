@@ -1,2 +1,2 @@
-!include 11-browsen-suchen-und-filtern-von-informationen/resource.yml
-!include 12-bewerten-von-digitalen-inhalten/resource.yml
+- !include 11-browsen-suchen-und-filtern-von-informationen/resource.yml
+- !include 12-bewerten-von-digitalen-inhalten/resource.yml
